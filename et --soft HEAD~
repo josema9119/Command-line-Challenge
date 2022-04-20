@@ -1,0 +1,240 @@
+[33mcommit 408ceae052fd595f3367f88e019191f6b6c5f0c4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: josema9119 <jose.ma.mm.91@gmail.com>
+Date:   Mon Mar 14 12:36:28 2022 +0000
+
+    commadn challenge
+
+[33mcommit 06d3173f11228d2f13f6347c95eb34e87399f4c4[m
+Merge: 2ca8930 9568db3
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Mon Dec 6 15:55:21 2021 -0300
+
+    Merge pull request #24 from kant/patch-4
+    
+    Minor fix (line 15)
+
+[33mcommit 2ca8930f223446242996475dfe863550aff48afb[m
+Merge: bb290bb ca35abb
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Mon Dec 6 15:54:37 2021 -0300
+
+    Merge pull request #23 from kant/patch-3
+    
+    Proposals (formatting) and some typos
+
+[33mcommit 9568db33e0abd028aaf6efaabc28b47a7908ba2f[m
+Author: Darío Hereñú <magallania@gmail.com>
+Date:   Sat Dec 4 22:46:27 2021 -0300
+
+    Minor fix (line 15)
+
+[33mcommit ca35abba97f6b4bb64e2af6ff8dd310decc005b7[m
+Author: Darío Hereñú <magallania@gmail.com>
+Date:   Sat Dec 4 22:37:09 2021 -0300
+
+    Proposals (formatting) and some typos
+
+[33mcommit bb290bb0abfb3fc98397502528ab40e777ba38d4[m
+Merge: 94e8c59 18d823f
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Sat Dec 4 12:22:17 2021 -0300
+
+    Merge pull request #22 from vitortamberlini/patch-1
+    
+    Update README.md
+
+[33mcommit 18d823f1764c0b53428c2d6705e691a75d2335e1[m
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Sat Dec 4 12:21:59 2021 -0300
+
+    Create README.md
+
+[33mcommit 47e9d3786d9af6ae2c0fb718768878384044efec[m
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Sat Dec 4 12:21:40 2021 -0300
+
+    Update README.md
+
+[33mcommit d9e32a830df2c2ae6753f78f4b8748e5e93d0953[m
+Author: vitortamberlini <vitor.tamberlini@outlook.com>
+Date:   Sat Dec 4 11:07:53 2021 +0000
+
+    Update README.md
+    
+    Maybe this what it was supposed to look like? The dot was escaping the README parsing, and I don't think it was intentional 🤔
+
+[33mcommit 94e8c591aa51cc8168b1cf152c0bc4cd97c3ae02[m
+Merge: 83bf80b 7ecba2c
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Fri Dec 3 14:44:32 2021 -0300
+
+    Merge pull request #21 from kant/patch-2
+    
+    Minor fix (paragraph 15)
+
+[33mcommit 83bf80b3ce5c598f3bf7e0cb12d6918047885676[m
+Merge: 91838b2 9045208
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Fri Dec 3 14:43:13 2021 -0300
+
+    Merge pull request #20 from kant/patch-1
+    
+    Minor proposal (paragraph 12)
+
+[33mcommit 7ecba2c119f30dd18d6c554ab6c1a3e68eba52ab[m
+Author: Darío Hereñú <magallania@gmail.com>
+Date:   Fri Dec 3 14:11:52 2021 -0300
+
+    Minor fix (paragraph 15)
+
+[33mcommit 904520851bf1e7d30d9300953df958675775c172[m
+Author: Darío Hereñú <magallania@gmail.com>
+Date:   Fri Dec 3 14:10:31 2021 -0300
+
+    Minor proposal (paragraph 12)
+
+[33mcommit 91838b22cc2b8251f41b66c8e379d11ffe14bbe3[m
+Merge: 3a3822c 3cd06b7
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Fri Dec 3 12:46:14 2021 -0300
+
+    Merge pull request #19 from ertip4geek/patch-1
+    
+    Update data.json
+
+[33mcommit 3cd06b7be5defc3c5cfb756b370d78c378340783[m
+Author: AOP <92811902+ertip4geek@users.noreply.github.com>
+Date:   Fri Dec 3 15:09:25 2021 +0100
+
+    Update data.json
+    
+    Line 15 - mispelling  "form" fixed to "from" word
+
+[33mcommit 3a3822c8bf60f0ee1f36a1a2e217b053b0efb606[m
+Merge: 85ca194 815db15
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Mon Nov 15 13:17:07 2021 -0300
+
+    Merge pull request #17 from ElviraQDP/path
+    
+    https://github.com/breatheco-de/exercise-terminal-challenge/issues/16
+
+[33mcommit 815db15377166e0846c0c2295b2ca12736811ed4[m
+Author: Elvira Quiroz <elvira.quiroz.dp@gmail.com>
+Date:   Mon Nov 15 16:16:00 2021 +0000
+
+    https://github.com/breatheco-de/exercise-terminal-challenge/issues/16
+
+[33mcommit 85ca1945055cea8f8cc3d704bb080a1e1b00b8e9[m
+Merge: 2435d9d c690f7d
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Wed Oct 20 11:32:46 2021 -0300
+
+    Merge pull request #15 from ernestofreyreg/master
+    
+    Fixing typo in the first slide instruction
+
+[33mcommit c690f7d40286a0cb798eb39f71e6d46a93ac5187[m
+Author: Ernesto Freyre <ernestofreyreg@gmail.com>
+Date:   Tue Oct 19 20:23:04 2021 -0400
+
+    Fixing typo in the first slide instruction
+
+[33mcommit 2435d9d1a17575bee87dc3aa0ceb78fa348bf859[m
+Merge: dd7e378 5ed6fbf
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Tue Sep 14 13:10:11 2021 -0300
+
+    Merge pull request #14 from ColbyWTaylor/patch-1
+    
+    cloud9 no longer used by 4Geeks
+
+[33mcommit 5ed6fbf4ec89ee43981db8d20b67df8553a2c3dc[m
+Author: ColbyWTaylor <colbyt.093@gmail.com>
+Date:   Mon Sep 13 17:42:56 2021 -0400
+
+    cloud9 no longer used by 4Geeks
+
+[33mcommit dd7e37853ab1471549d039d7939a25ebe158517e[m
+Merge: 5ce2793 cc731c4
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Tue Jun 29 11:17:22 2021 -0400
+
+    Merge pull request #12 from StefAranzazu/patch-1
+    
+    Update README.es.md
+
+[33mcommit cc731c4406987563d26c03392f742454cfa57ba2[m
+Author: StefAranzazu <84442570+StefAranzazu@users.noreply.github.com>
+Date:   Sat Jun 26 10:57:32 2021 +0100
+
+    Update README.es.md
+
+[33mcommit 5ce2793b8d245af348991805bdb65c737ac71f11[m
+Merge: ba92fab 358aabf
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Apr 7 16:04:40 2021 -0400
+
+    Merge pull request #11 from ElviraQDP/master
+    
+    Create README.es.md
+
+[33mcommit 358aabf8e77592fd17c665ebbd74511ca024e8e7[m
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Wed Apr 7 15:57:01 2021 -0400
+
+    Create README.es.md
+
+[33mcommit ba92fab90a9f7b20a3b758ec51896cab4ad5d043[m
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Wed Apr 7 15:51:12 2021 -0400
+
+    Update README.md
+
+[33mcommit c2351351a8da5fcd36a83369338f1667a4fdaab9[m
+Merge: beebc62 383528f
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Mon Apr 5 18:06:17 2021 -0400
+
+    Merge pull request #10 from gmihov001/patch-1
+    
+    Update README.md
+
+[33mcommit 383528f3b3ae891467f9203045e3039824a91d4c[m
+Author: George Mihov <53583283+gmihov001@users.noreply.github.com>
+Date:   Mon Apr 5 17:04:27 2021 -0400
+
+    Update README.md
+
+[33mcommit beebc62f69261a2fad586393df9b78498d7ee1e5[m
+Merge: cf5e232 3880cb9
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Tue Mar 30 16:33:42 2021 -0300
+
+    Merge pull request #9 from ElviraQDP/master
+    
+    instructions updated
+
+[33mcommit 3880cb9156300a7f0e548ceffe83e1e54f126c3b[m
+Author: Elvira Quiroz <elvira.quiroz.dp@gmail.com>
+Date:   Tue Mar 30 19:33:12 2021 +0000
+
+    missing instruction line added
+
+[33mcommit 8734f0bcb818c9807f0cc0903bd3f71d4d88a85c[m
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Mon Mar 29 12:59:40 2021 -0300
+
+    instructions updated
+
+[33mcommit cf5e2326f757a774c4b86e3814987dc61d2bc374[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Dec 22 12:31:18 2020 -0500
+
+    Added bc.json
+
+[33mcommit ceca776a7dd332c8be30c03204f19eabb30e27c7[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Jul 8 15:17:39 2019 -0400
+
+    Update index.js
